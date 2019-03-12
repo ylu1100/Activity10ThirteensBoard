@@ -38,7 +38,7 @@ public class ThirteensBoard extends Board {
     /**
      * Creates a new <code>ElevensBoard</code> instance.
      */
-    public ElevensBoard() {
+    public Thirteens() {
         super(BOARD_SIZE, RANKS, SUITS, POINT_VALUES);
     }
 
